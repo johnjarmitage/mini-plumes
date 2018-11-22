@@ -1,0 +1,333 @@
+\begin{thebibliography}{55}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Androvandi et~al.(2011)Androvandi, Davaille, Limare, Foucquier, and
+  Marais}]{androvandi-etal-2011}
+Androvandi, S., Davaille, A., Limare, A., Foucquier, A., Marais, C., 2011. At
+  east three scales of convection in a mantle with strongly temperature
+  dependent viscosity. Physics of the Eath and Planetary Interiors 188,
+  132--141, doi: 10.1016/j.pepi.2011.07.004.
+
+\bibitem[{Armitage et~al.(2015)Armitage, Ferguson, Goes, Hammond, Calais,
+  Rychert, and Harmon}]{armitage-etal-epsl-2015}
+Armitage, J.~J., Ferguson, D.~J., Goes, S., Hammond, J. O.~S., Calais, E.,
+  Rychert, C.~A., Harmon, N., 2015. Upper mantle temperature and the onset of
+  extension and break-up in {A}far, {A}frica. Earth and Planetary Science
+  Letters 418, 78--90, doi: 0.1016/j.epsl.2015.02.039.
+
+\bibitem[{Ballmer et~al.(2013)Ballmer, Ito, Wolf, and
+  Solomon}]{ballmer-etal-2013}
+Ballmer, M.~D., Ito, G., Wolf, C.~J., Solomon, S.~C., 2013. Double layering of
+  a thermochemical plume in the upper mantle beneath {H}awaii. Earth and
+  Planetary Science Letters 376, 155--164, doi:10.1016/j.epsl.2013.06.022.
+
+\bibitem[{Boschi et~al.(2007)Boschi, Becker, and
+  Steinberger}]{boschi-etal-2007}
+Boschi, L., Becker, T.~W., Steinberger, B., 2007. Mantle plumes: Dynamic models
+  and seismic images. Geochemistry Geophysics Geosystems 8, 1--20, doi:
+  10.1029/2007GC001733.
+
+\bibitem[{Cammarano et~al.(2003)Cammarano, Goes, Vacher, and
+  Giardini}]{cammarano-etal-2003}
+Cammarano, F., Goes, S., Vacher, P., Giardini, D., 2003. Inferring upper-mantle
+  temperatures from seismic velocities. Physics of the Earth and Planetary
+  Interiors 138, 197--222, doi: 10.1016/S0031-9201(03)00156-0.
+
+\bibitem[{Chang and {Van der Lee}(2011)}]{chang-2011}
+Chang, S.~J., {Van der Lee}, S., 2011. Mantle plumes and associated flow
+  beneath {A}rabia and {E}ast {A}frica. Earth and Planetary Science Letters
+  302, 448--454, doi: 10.1016/j.epsl.2010.12.050.
+
+\bibitem[{Christensen(1984)}]{christensen-1984}
+Christensen, U.~R., 1984. Convection with pressure and temperature-dependent
+  non-newtonian rheology. Geophysical Journal of the Royals Astronomical
+  Society 77, 343--384.
+
+\bibitem[{Civiero et~al.(2016)Civiero, Goes, Hammond, Fishwick, Ahmed, Ayele,
+  Doubre, Goitom, Keir, Kendall, Leroy, Ogubazghi, R{\"u}mpker, and
+  Stuart}]{civiero-etal-2016}
+Civiero, C., Goes, S., Hammond, J. O.~S., Fishwick, S., Ahmed, A., Ayele, A.,
+  Doubre, C., Goitom, B., Keir, D., Kendall, J.~M., Leroy, S., Ogubazghi, G.,
+  R{\"u}mpker, G., Stuart, G.~W., 2016. Small-scale thermal upwellings under
+  the northern {E}ast {A}frican {R}ift from {S} travel time tomography. Journal
+  of Geophysical Research 121, 7395--7408, doi: 10.1002/2016JB013070.
+
+\bibitem[{Civiero et~al.(2015)Civiero, Hammond, Goes, Fishwick, Ahmed, Ayele,
+  Doubre, Goitom, Keir, Kendall, Leroy, Ogubazghi, R{\"u}mpker, and
+  Stuart}]{civiero-etal-2015}
+Civiero, C., Hammond, J. O.~S., Goes, S., Fishwick, S., Ahmed, A., Ayele, A.,
+  Doubre, C., Goitom, B., Keir, D., Kendall, J.~M., Leroy, S., Ogubazghi, G.,
+  R{\"u}mpker, G., Stuart, G.~W., 2015. Multiple mantle upwellings in the
+  transition zone beneath the northern {East-African Rift} system from relative
+  {P-wave} travel-time tomography. Geochemistry, Geophysics, Geosystems 16,
+  2949--2986, doi: 10.1002/2015GC005948.
+
+\bibitem[{Civiero et~al.(2018)Civiero, Strak, Cust{\'o}dio, Silviera,
+  Rawlinson, Arroucau, and Corela}]{civiero-etal-2018}
+Civiero, C., Strak, V., Cust{\'o}dio, S., Silviera, G., Rawlinson, N.,
+  Arroucau, P., Corela, C., 2018. A common deep source for upper-mantle
+  upwellings below the {I}bero-western {M}aghreb region from teleseismic
+  {P}-wave travel-time tomography. Earth and Planetary Science Letters 499,
+  157--172, doi: 10.1016/j.epsl.2018.07.024.
+
+\bibitem[{Cobden et~al.(2008)Cobden, Goes, Cammarano, and
+  Connelly}]{cobden-etal-2008}
+Cobden, L., Goes, S., Cammarano, F., Connelly, J. A.~D., 2008. Thermochemical
+  interpretation of one-dimensional seismic reference models for the upper
+  mantle: Evidence for bias due to heterogeneity. Geophysical Journal
+  International 175, 627--648, doi: 10.1111/j.1365-246X.2008.03903.x.
+
+\bibitem[{Connolly(2005)}]{connolly-2005}
+Connolly, J. A.~D., 2005. Computation of phase equilibria by linear
+  programming: {A} tool for geodynamic modelling and its application to
+  subduction zone decarbonation. Earth and Planetary Science Letters 236,
+  524--541, doi:10.1016/j.epsl.2005.04.033.
+
+\bibitem[{Cottaar and Lekic(2016)}]{cottaar-2016}
+Cottaar, S., Lekic, V., 2016. Morphology of seismically slow lower-mantle
+  structures. Geophysical Journal International 207, 1122--1136, doi:
+  10.1093/gji/ggw324.
+
+\bibitem[{Davaille et~al.(2005)Davaille, Stutzann, Silveira, Besse, and
+  Courtillot}]{davaille-etal-2005}
+Davaille, A., Stutzann, E., Silveira, G., Besse, J., Courtillot, V., 2005.
+  Convective patterns under the indo-atlantic "box". Earth and Planetary
+  Science Letters 239, 233--252, doi: 10.1016/j.epsl.2005.07.024.
+
+\bibitem[{Faul et~al.(1994)Faul, Toomey, and Waff}]{faul-etal-1994}
+Faul, U.~H., Toomey, D.~R., Waff, H.~S., 1994. Intergranualar basaltic melt is
+  distributed in thin, elongated inclusions. Geophyscial Research Letters 21,
+  29--32.
+
+\bibitem[{Fishwick(2010)}]{fishwick-2010}
+Fishwick, S., 2010. Surface wave tomography: imaging of the
+  lithosphere-asthenosphere boundary beneath central and southern africa?
+  Lithos 120, 63--73, doi: 10.1016/j.lithos.2010.05.011.
+
+\bibitem[{Fourel(2009)}]{fourel-2009}
+Fourel, L., 2009. Stabilit{\'e} et instabilit{\'e} de la lithosphere
+  coninental. Ph.D. thesis, Institut de Physique du Globe de Paris, 1 rue
+  Jussieu, Paris, 75005, Paris.
+
+\bibitem[{Fourel et~al.(2017)Fourel, Limare, Jaupart, Surducan, Farnetani,
+  Kamniski, Neamtu, and Surducan}]{fourel-etal-2017}
+Fourel, L., Limare, A., Jaupart, C., Surducan, E., Farnetani, C.~G., Kamniski,
+  E.~C., Neamtu, C., Surducan, V., 2017. The earth's mantle in a microwave
+  oven: thermal convection driven by a heterogeneous distribution of heat
+  sources. Experiments in Fluids 58~(90), doi: 10.1007/s00348-017-2381-3.
+
+\bibitem[{Galsa and Lenki(2007)}]{galsa-2007}
+Galsa, A., Lenki, L., 2007. Quantitative investigation of physical properties
+  of mantle plumes in three-dimensional numerical models. Physics of Fluids
+  19~(116601), doi: 10.1063/1.2794284.
+
+\bibitem[{Goes et~al.(2012)Goes, Armitage, Harmon, Huismans, and
+  Smith}]{goes-etal-2012}
+Goes, S., Armitage, J.~J., Harmon, N., Huismans, R., Smith, H., 2012. Low
+  seismic velocities below mid-ocean ridges: {A}ttenuation vs. melt retention.
+  Journal of Geophysical Research 117, B12403, doi: 10.1029/2012JB009637.
+
+\bibitem[{Goes et~al.(2004)Goes, Cammarano, and Hansen}]{goes-etal-2004}
+Goes, S., Cammarano, F., Hansen, U., 2004. Synthetic seismic signature of
+  thermal mantle plumes. Earth and Planetary Science Letters 218, 403--419,
+  doi: 10.1016/S0012-821X(03)00680-0.
+
+\bibitem[{Goes et~al.(1999)Goes, Spakman, and Bijwaard}]{goes-etal-1999}
+Goes, S., Spakman, W., Bijwaard, H., 1999. A lower mantle source for central
+  {E}uropean volcanism. Science 286, 1928--1931, doi:
+  10.1126/science.286.5446.1928.
+
+\bibitem[{Goes and {van der Lee}(2002)}]{goes-2002}
+Goes, S., {van der Lee}, S., 2002. Thermal structure of the {N}orth {A}merican
+  uppermost mantle inferred from seismic tomogrpahy. Journal of Geophysical
+  Research 107~(B3), 11159--11169, doi: 10.1029/1999JB900300.
+
+\bibitem[{Granet et~al.(1995)Granet, Wilsona, and Achauer}]{granet-etal-1995}
+Granet, M., Wilsona, M., Achauer, U., 1995. Imaging a mantle plume beneath the
+  {F}rench {M}assif {C}entral. Earth and Planetary Science Letters 136,
+  281--296, doi: 10.1016/0012-821X(95)00174-B.
+
+\bibitem[{Hammond and Humphreys(2000)}]{hammond-2000}
+Hammond, W.~C., Humphreys, E.~D., 2000. Upper mantle seismic wave velocity:
+  Effects of realistic partial melt geometries. Journal of Geophysical Research
+  105, 10975--10986.
+
+\bibitem[{Herzberg et~al.(2000)Herzberg, Raterron, and
+  Zhang}]{herzberg-etal-2000}
+Herzberg, C., Raterron, P., Zhang, J., 2000. New experimental observations on
+  the anhydrous solidus for perdotite {KLB-1}. Geochemistry Geophysics
+  Geosystems 1~(1051), doi: 10.1029/2000GC000089.
+
+\bibitem[{Hwang et~al.(2011)Hwang, Ritsema, {van Keken}, Goes, and
+  Styles}]{hwang-etal-2011}
+Hwang, Y.~K., Ritsema, J., {van Keken}, P.~E., Goes, S., Styles, E., 2011.
+  Wavefront healing renders deep plumes seismically invisible. Geophysical
+  Journal International 187, 273--277, doi: 10.1111/j.1365-246X.2011.05173.x.
+
+\bibitem[{Jaupart and Mareschal(2011)}]{jaupart-2011}
+Jaupart, C., Mareschal, J., 2011. Heat Generation and Transport in the Earth.
+  Cambridge University Press, Cambridge, UK.
+
+\bibitem[{Julian and Gubbins(1977)}]{julian-1977}
+Julian, B.~R., Gubbins, D., 1977. Three dimensional seismic ray tracing.
+  Journal of Geophysics 43, 95--114.
+
+\bibitem[{Korenaga and Karato(2008)}]{korenaga-jgr-2008}
+Korenaga, J., Karato, S.~I., 2008. A new analysis of experimental data on
+  olivine rheology. Journal of Geophysical Research 113~(B02403),
+  doi:10.1029/2007JB005100.
+
+\bibitem[{Kumagai et~al.(2007)Kumagai, Davaille, and
+  Kurita}]{kumagai-etal-2007}
+Kumagai, I., Davaille, A., Kurita, K., 2007. On the fate of thermally buoyant
+  mantle plumes at density interfaces. Earth and Planetary Science Letters 254,
+  180--193, doi: 10.1016/j.epsl.2006.11.029.
+
+\bibitem[{Kumagai et~al.(2008)Kumagai, Davaille, Kurita, and
+  Stutzmann}]{kumagai-etal-2008}
+Kumagai, I., Davaille, A., Kurita, K., Stutzmann, E., 2008. Thin, fat,
+  successful, or failing? constraints to explain hot spot volcanism through
+  time and space. Geophyscial Research Letters 35~(L16301), doi:
+  10.1029/2008GL035079.
+
+\bibitem[{Labrosse(2002)}]{labrosse-2002}
+Labrosse, S., 2002. Hotpsots, mantle plumes and core heat loss. Earth and
+  Planetary Science Letters 199, 147--156, doi: 10.1016/S0012-821X(02)00537-X.
+
+\bibitem[{Maguire et~al.(2016)Maguire, Ritsema, {van Keken}, Fichtner, and
+  Goes}]{maguire-etal-2016}
+Maguire, R., Ritsema, J., {van Keken}, P.~E., Fichtner, A., Goes, S., 2016. P-
+  and {S-wave} delays caused by thermal plumes. Geophysical Journal
+  International 206, 1169--1178, doi: 10.1093/gji/ggw187.
+
+\bibitem[{Montelli et~al.(2004{\natexlab{a}})Montelli, Nolet, Dahlen, Masters,
+  Engdahl, and Hung}]{montelli-etal-2004a}
+Montelli, R., Nolet, G., Dahlen, F., Masters, G., Engdahl, E.~R., Hung, S.~H.,
+  2004{\natexlab{a}}. Finite-frequency tomography reveals a variety of plumes.
+  Science 303, 338--343, doi: 10.1126/science.1092485.
+
+\bibitem[{Montelli et~al.(2004{\natexlab{b}})Montelli, Nolet, Masters, Engdahl,
+  and Hung}]{montelli-etal-2004b}
+Montelli, R., Nolet, G., Masters, G., Engdahl, E.~R., Hung, S.~H.,
+  2004{\natexlab{b}}. Global {P} and {PP} traveltime tomography: {R}ays versus
+  waves. Geophysical Journal International 158, 637--654, doi:
+  10.1111/j.1365-246X.2004.02346.x.
+
+\bibitem[{Pik et~al.(1999)Pik, Deniel, Coulon, Yirgu, and
+  Marty}]{pik-etal-1999}
+Pik, R., Deniel, C., Coulon, C., Yirgu, G., Marty, B., 1999. Isotopic and trace
+  element signatures of {E}thiopian flood basalts: Evidence for
+  plume–lithosphere interactions. Geochimica et Cosmochimica Acta 63,
+  2263--2279.
+
+\bibitem[{Rawlinson et~al.(2010)Rawlinson, Pozgay, and
+  Fishwick}]{rawlinson-etal-2010}
+Rawlinson, N., Pozgay, S., Fishwick, S., 2010. Seismic tomography: A window
+  into deep {E}arth. Physics of the Earth and Planetary Interiors 178,
+  101--135, doi: 10.1016/j.pepi.2009.10.002.
+
+\bibitem[{Rickers et~al.(2016)Rickers, Fichtner, and
+  Trampert}]{rickers-etal-2013}
+Rickers, F., Fichtner, A., Trampert, J., 2016. The {I}celand-{J}an {M}ayen
+  plume system and its impact on mantle dynamics in the {N}orth {A}tlantic
+  region: Evidence from full-waveform inversion. Earth and Planetary Science
+  Letters 367, 39--51, doi: 10.1016/j.epsl.2013.02.022.
+
+\bibitem[{Ritter et~al.(2001)Ritter, Jordan, Christensen, and
+  Achauer}]{ritter-etal-2001}
+Ritter, J. R.~R., Jordan, M., Christensen, U.~R., Achauer, U., 2001. A mantle
+  plume below the {E}ifel volcanic fields, {G}ermany. Earth and Planetary
+  Science Letters 186, 7--14, doi: 10.1016/S0012-821X(01)00226-6.
+
+\bibitem[{Saki et~al.(2015)Saki, Thomas, Nippress, and
+  Lessing}]{saki-etal-2015}
+Saki, M., Thomas, C., Nippress, S. E.~J., Lessing, S., 2015. Topography of
+  upper mantle seismic discontinuities beneath the {N}orth {A}tlantic: the
+  {A}zores, {C}anary and {C}ape {V}erde plumes. Earth and Planetary Science
+  Letters 409, 193--202, doi: 10.1016/j.epsl.2014.10.052.
+
+\bibitem[{Schmelling(1987)}]{schmeling-1987}
+Schmelling, H., 1987. On the relation between initial conditions and late
+  stages of {R}ayleigh-{T}aylor instabilities. Tectonophysics 133, 65--80, doi:
+  10.1016/0040-1951(87)90281-2.
+
+\bibitem[{Styles et~al.(2011{\natexlab{a}})Styles, Davies, and
+  Goes}]{styles-etal-2011b}
+Styles, E., Davies, D.~R., Goes, S., 2011{\natexlab{a}}. Mapping spherical
+  seismic into physical structure: {B}iases from {3-D} phase-transition and
+  thermal boundary-layer heterogeneity. Geophyscial Journal International 184,
+  1371--1378, doi: 10.1111/j.1365-246X.2010.04914.x.
+
+\bibitem[{Styles et~al.(2011{\natexlab{b}})Styles, Goes, {van Keken}, Ritsema,
+  and Smith}]{styles-etal-2011}
+Styles, E., Goes, S., {van Keken}, P.~E., Ritsema, J., Smith, H.,
+  2011{\natexlab{b}}. Synthetic images of dynamically predicted plumes and
+  comparison with a global tomographic model. Earth and Planetary Science
+  Letters 311, 351--363, doi: 10.1016/j.epsl.2011.09.012.
+
+\bibitem[{Tackley(1998)}]{tackley-1998}
+Tackley, P.~J., 1998. Self-consistent generation of tectonic plates in
+  three-dimensional mantle convection. Earth and Planetary Science Letters 157,
+  9--22, doi: 10.1016/S0012-821X(98)00029-6.
+
+\bibitem[{Thompson et~al.(2015)Thompson, Hammond, Kendall, Stuart, Helffrich,
+  Keir, Ayele, and Goitom}]{thompson-etal-2015}
+Thompson, D.~A., Hammond, J. O.~S., Kendall, J.~M., Stuart, G.~W., Helffrich,
+  G., Keir, D., Ayele, A., Goitom, B., 2015. Hydrous upzelling qcross the
+  mqntle trqnsition zne beneath the {A}far {T}riple {J}unction. Geochemistry
+  Geophysics Geosystems 16, 834--846, doi: 10.1002/2014GC005648.
+
+\bibitem[{{van Wijk} et~al.(2008){van Wijk}, {van Hunen}, and
+  Goes}]{vanwijk-etal-2008}
+{van Wijk}, J., {van Hunen}, J., Goes, S., 2008. Small-scale convection during
+  continental rifting: Evidence from the rio grande rift. Geology 36, 575--578,
+  doi: 10.1130/G24691A.1.
+
+\bibitem[{{VanDecar} et~al.(1995){VanDecar}, James, and
+  Assumpcao}]{vandecar-etal-1995}
+{VanDecar}, J.~C., James, D.~E., Assumpcao, M., 1995. Seismic evidence for a
+  fossil mantle plume beneath {S}outh {A}merica and implications for plate
+  driving forces. Nature 378, 25--31, doi: 10.1038/378025a0.
+
+\bibitem[{Vinnik et~al.(2012)Vinnik, Silveira, Kiselev, Farra, Weber, and
+  Stutzmann}]{vinnik-etal-2012}
+Vinnik, L., Silveira, G., Kiselev, S., Farra, V., Weber, M., Stutzmann, E.,
+  2012. Cape {V}erde hotspot from the upper crust to the top of the lower
+  mantle. Earth and Planetary Science Letters 319-320, 259--268, doi:
+  10.1016/j.epsl.2011.12.017.
+
+\bibitem[{Watts and Zhong(2000)}]{watts-2000}
+Watts, A.~B., Zhong, S., 2000. Observations of flexure and the rheology of
+  oceanic lithopshere. Geophysical Journal International 142, 855--875.
+
+\bibitem[{Wesse and Smith(1995)}]{wessel-1995}
+Wesse, P., Smith, H.~F., 1995. New version of the generic mapping tools. EOS
+  76, 329--336, doi: 10.1029/95EO00198.
+
+\bibitem[{White and Mc{K}enzie(1989)}]{white-1989}
+White, R.~S., Mc{K}enzie, D.~P., 1989. Magmatism at rift zones: the generation
+  of volcanic continental margins and flood basalts. Journal of Geophysical
+  Research 94, 7685--7729.
+
+\bibitem[{Xu et~al.(2008)Xu, {Lithgoz-Bertelloni}, Sixtrude, and
+  Ritsema}]{xu-etal-2008}
+Xu, W., {Lithgoz-Bertelloni}, C., Sixtrude, L., Ritsema, J., 2008. The effect
+  of bulk composition and temperature on mantle seismic structure. Earth and
+  Planetary Science Letters 275, 70--79, doi: 10.1016/j.epsl.2008.08.012.
+
+\bibitem[{Yang et~al.(2006)Yang, Shen, {van der Lee}, Solomon, and
+  Hung}]{yang-etal-2006}
+Yang, T., Shen, Y., {van der Lee}, S., Solomon, S.~C., Hung, S.~H., 2006. Upper
+  mantle structure beneath the {A}zores hotspot from finite-frequency seismic
+  tomography. Earth and Planetary Science Letters 250, 11--26, doi:
+  10.1016/j.epsl.2006.07.031.
+
+\bibitem[{Zhong(2005)}]{zhong-2005}
+Zhong, S., 2005. Dynamics of thermal plumes in three-dimensional isoviscous
+  thermal convection. Geophysical Journal International 162, 289--300, doi:
+  10.1111/j.1365-246X.2005.02633.x.
+
+\end{thebibliography}

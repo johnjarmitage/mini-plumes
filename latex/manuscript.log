@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.11.6)  20 NOV 2018 15:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.11.6)  26 NOV 2018 14:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -403,16 +403,24 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+
+<../figures-working/velocities.png, id=49, 672.111pt x 478.4274pt>
+File: ../figures-working/velocities.png Graphic file (type png)
+
+<use ../figures-working/velocities.png>
+Package pdftex.def Info: ../figures-working/velocities.png used on input line 2
+26.
+(pdftex.def)             Requested size: 312.9803pt x 222.78764pt.
  [7] [8 <../figures-working/comparison-3x4-lables.png> <../figures-working/temp
 eratures.png (PNG copy)>]
-<../figures-working/fig06.png, id=57, 683.55376pt x 1209.51875pt>
+<../figures-working/fig06.png, id=58, 683.55376pt x 1209.51875pt>
 File: ../figures-working/fig06.png Graphic file (type png)
 
 <use ../figures-working/fig06.png>
-Package pdftex.def Info: ../figures-working/fig06.png used on input line 234.
+Package pdftex.def Info: ../figures-working/fig06.png used on input line 243.
 (pdftex.def)             Requested size: 244.69386pt x 432.9718pt.
 
-Overfull \hbox (7.84543pt too wide) in paragraph at lines 234--235
+Overfull \hbox (7.84543pt too wide) in paragraph at lines 243--244
  [][] 
  []
 
@@ -422,13 +430,11 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no ° in font cmr10!
-<../figures-working/fig07.png, id=58, 418.728pt x 541.806pt>
+<../figures-working/fig07.png, id=59, 418.728pt x 541.806pt>
 File: ../figures-working/fig07.png Graphic file (type png)
 
 <use ../figures-working/fig07.png>
-Package pdftex.def Info: ../figures-working/fig07.png used on input line 249.
+Package pdftex.def Info: ../figures-working/fig07.png used on input line 258.
 (pdftex.def)             Requested size: 312.9803pt x 404.98112pt.
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
@@ -442,35 +448,32 @@ Missing character: There is no “ in font cmr9!
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
- [9 <../figures-working/fig06.png (PNG copy)>] [10 <../figures-working/fig07.pn
-g>]
-<../figures-working/fig09.png, id=66, 577.503pt x 408.873pt>
+ [9 <../figures-working/velocities.png (PNG copy)>] [10 <../figures-working/fig
+07.png>] [11 <../figures-working/fig06.png (PNG copy)>] <../figures-working/fig
+09.png, id=70, 577.503pt x 408.873pt>
 File: ../figures-working/fig09.png Graphic file (type png)
 
 <use ../figures-working/fig09.png>
-Package pdftex.def Info: ../figures-working/fig09.png used on input line 267.
+Package pdftex.def Info: ../figures-working/fig09.png used on input line 278.
 (pdftex.def)             Requested size: 455.24408pt x 322.3136pt.
 
-<../figures-working/fig10.png, id=67, 577.503pt x 407.997pt>
+<../figures-working/fig10.png, id=71, 577.503pt x 407.997pt>
 File: ../figures-working/fig10.png Graphic file (type png)
 
 <use ../figures-working/fig10.png>
-Package pdftex.def Info: ../figures-working/fig10.png used on input line 274.
+Package pdftex.def Info: ../figures-working/fig10.png used on input line 285.
 (pdftex.def)             Requested size: 455.24408pt x 321.62305pt.
 Missing character: There is no Â in font cmr10!
 Missing character: There is no ° in font cmr10!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
-[12 <../figures-working/fig09.png>] [13 <../figures-working/fig10.png>]
-<../figures-working/fig11.png, id=80, 577.503pt x 747.447pt>
+ [12] [13 <../figures-working/fig09.png>]
+[14 <../figures-working/fig10.png>]
+<../figures-working/fig11.png, id=84, 577.503pt x 747.447pt>
 File: ../figures-working/fig11.png Graphic file (type png)
 
 <use ../figures-working/fig11.png>
-Package pdftex.def Info: ../figures-working/fig11.png used on input line 300.
+Package pdftex.def Info: ../figures-working/fig11.png used on input line 311.
 (pdftex.def)             Requested size: 312.9803pt x 405.07523pt.
- [14] [15 <../figures-working/fig11.png>]
+ [15] [16 <../figures-working/fig11.png>]
 (./manuscript.bbl
 Underfull \hbox (badness 1496) in paragraph at lines 9--13
 []\OT1/cmr/m/n/10 Androvandi, S., Davaille, A., Li-mare, A., Fouc-
@@ -496,7 +499,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 23--26
 []\OT1/cmr/m/n/10 Ballmer, M. D., Ito, G., Wolf, C. J., Solomon,
  []
 
-[16]
+
 Underfull \hbox (badness 2856) in paragraph at lines 70--75
 \OT1/cmr/m/n/10 A com-mon deep source for upper-mantle up-
  []
@@ -511,7 +514,7 @@ Underfull \hbox (badness 2452) in paragraph at lines 90--93
 \OT1/cmr/m/n/10 cal Jour-nal In-ter-na-tional 207, 1122--1136, doi:
  []
 
-
+[17]
 Underfull \hbox (badness 1354) in paragraph at lines 139--142
 []\OT1/cmr/m/n/10 Goes, S., Spak-man, W., Bi-jwaard, H., 1999. A
  []
@@ -541,88 +544,85 @@ Underfull \hbox (badness 1454) in paragraph at lines 179--182
 \OT1/cmr/m/n/10 Jour-nal of Geo-phys-i-cal Re-search 113 (B02403),
  []
 
-[17]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 
-Underfull \hbox (badness 1275) in paragraph at lines 234--238
+Underfull \hbox (badness 1275) in paragraph at lines 241--245
 \OT1/cmr/m/n/10 on man-tle dy-nam-ics in the North At-lantic re-
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 234--238
+Underfull \hbox (badness 1077) in paragraph at lines 241--245
 \OT1/cmr/m/n/10 and Plan-e-tary Sci-ence Let-ters 367, 39--51, doi:
  []
 
-
-Underfull \hbox (badness 3492) in paragraph at lines 253--256
+[18]
+Underfull \hbox (badness 3492) in paragraph at lines 260--263
 []\OT1/cmr/m/n/10 Schmelling, H., 1987. On the re-la-tion be-tween
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 253--256
+Underfull \hbox (badness 2443) in paragraph at lines 260--263
 \OT1/cmr/m/n/10 ini-tial con-di-tions and late stages of Rayleigh-
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 259--263
+Underfull \hbox (badness 3884) in paragraph at lines 266--270
 \OT1/cmr/m/n/10 layer het-ero-gene-ity. Geo-physcial Jour-nal In-ter-
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 259--263
+Underfull \hbox (badness 2913) in paragraph at lines 266--270
 \OT1/cmr/m/n/10 na-tional 184, 1371--1378, doi: 10.1111/j.1365-
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 307--309
+Underfull \hbox (badness 1590) in paragraph at lines 314--316
 []\OT1/cmr/m/n/10 Wesse, P., Smith, H. F., 1995. New ver-sion of
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 317--320
+Underfull \hbox (badness 1077) in paragraph at lines 324--327
 \OT1/cmr/m/n/10 and Plan-e-tary Sci-ence Let-ters 275, 70--79, doi:
  []
 
-[18]
-Underfull \hbox (badness 1442) in paragraph at lines 329--332
+
+Underfull \hbox (badness 1442) in paragraph at lines 336--339
 \OT1/cmr/m/n/10 dimensional iso-vis-cous ther-mal con-vec-tion. Geo-
  []
 
-) [19
-
-] (./manuscript.aux) ) 
+) [19] (./manuscript.aux) ) 
 Here is how much of TeX's memory you used:
- 4772 strings out of 494185
- 71391 string characters out of 6159749
- 161982 words of memory out of 5000000
- 8087 multiletter control sequences out of 15000+600000
+ 4781 strings out of 494185
+ 71638 string characters out of 6159749
+ 163166 words of memory out of 5000000
+ 8095 multiletter control sequences out of 15000+600000
  9786 words of font info for 34 fonts, out of 8000000 for 9000
  416 hyphenation exceptions out of 8191
- 38i,10n,38p,1972b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-ssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on manuscript.pdf (19 pages, 21221421 bytes).
+ 38i,10n,38p,1972b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on manuscript.pdf (19 pages, 21844559 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
+ 163 PDF objects out of 1000 (max. 8388607)
  102 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

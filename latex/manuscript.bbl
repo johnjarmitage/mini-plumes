@@ -1,4 +1,4 @@
-\begin{thebibliography}{55}
+\begin{thebibliography}{56}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
@@ -196,6 +196,13 @@ Kumagai, I., Davaille, A., Kurita, K., Stutzmann, E., 2008. Thin, fat,
 \bibitem[{Labrosse(2002)}]{labrosse-2002}
 Labrosse, S., 2002. Hotpsots, mantle plumes and core heat loss. Earth and
   Planetary Science Letters 199, 147--156, doi: 10.1016/S0012-821X(02)00537-X.
+
+\bibitem[{Maguire et~al.(2018)Maguire, Ritsema, Bonnin, {van Keken}, and
+  Goes}]{maguire-etal-2018}
+Maguire, R., Ritsema, J., Bonnin, M., {van Keken}, P.~E., Goes, S., 2018.
+  Evaluating the resolution of deep mantle plumes in teleseismic traveltime
+  tomography. Journal of Geophysical Research 128, 384--400, doi:
+  10.1002/2017JB014730.
 
 \bibitem[{Maguire et~al.(2016)Maguire, Ritsema, {van Keken}, Fichtner, and
   Goes}]{maguire-etal-2016}
